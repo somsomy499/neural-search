@@ -1,0 +1,1 @@
+from .engine import SearchEngine\n__version__ = "1.0.0"\n
